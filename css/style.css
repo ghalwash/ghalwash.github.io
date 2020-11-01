@@ -41,7 +41,7 @@ body a:hover{
 }
 .banner-info{
 	background: url(../images/dott.png)repeat 0px 0px;
-	padding: 4em 0;
+	padding: 1em 0;
 }
 .header-left img {
     width: 100%;
@@ -135,7 +135,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 /*--//top-nav--*/
 /*--about--*/
 
-.about,.work,.education,.download,.skills,.portfolio,.contact{
+.about,.education,.download,.skills,.portfolio,.contact{
 	padding:6em 0;
 }
 h3.title {
@@ -179,14 +179,20 @@ p {
 /*-- about --*/
 
 .about img {
-    width: 100%;
+    width: 60%;
     border-radius: 50%;
 	margin-top:35px;
 }
 /*-- //about --*/
 
 
+
 /*-- download--*/
+
+.download{
+	background:#000;
+}
+
 .download a{
 	color: #F58703;
 	padding:10px 20px;
@@ -682,7 +688,7 @@ h2.resp-accordion {
 /*--//slider-up-arrow--*/
 /*---- responsive-design -----*/
 @media(max-width:1366px){
-.about,.work,.education,.skills,.portfolio,.contact {
+.about,.education,.download,.skills,.portfolio,.contact {
     padding: 5em 0;
 }
 .work-right.work-right2 {
@@ -702,7 +708,7 @@ ul.address {
 ul.address li ul.address-text li {
     margin-top: 0.8em;
 }
-.about, .work, .education, .skills, .portfolio, .contact {
+.about, .education,.download, .skills, .portfolio, .contact {
     padding: 4em 0;
 }
 h3.title {
@@ -729,7 +735,7 @@ h3.title {
 }
 @media(max-width:991px){
 .banner-info {
-    padding: 3.5em 0;
+    padding: 1em 0;
 }
 .header-left {
     float: left;
@@ -834,7 +840,7 @@ h3.title {
 }
 }
 @media(max-width:800px){
-.about, .work, .education, .skills, .portfolio, .contact {
+.about, .education,.download, .skills, .portfolio, .contact {
     padding: 3em 0;
 }
 h3.title {
@@ -847,7 +853,7 @@ h3.title {
 }
 @media(max-width:768px){
 .banner-info {
-    padding: 3em 0;
+    padding: 0em 0;
 }
 }
 @media(max-width:767px){
@@ -886,9 +892,9 @@ ul.address {
     margin-top: 0.5em;
 }
 .banner-info {
-    padding: 2em 0;
+    padding: 1em 0;
 }
-.about, .work, .education, .skills, .portfolio, .contact {
+.about, .work, .education,.download, .skills, .portfolio, .contact {
     padding: 2em 0;
 }
 h3.title {
@@ -1107,7 +1113,7 @@ ul.nav.navbar li a {
     padding: 0.6em 1.5em;
     font-size: 1em;
 }
-.about, .work, .education, .skills, .portfolio, .contact {
+.about, .work, .education,.download, .skills, .portfolio, .contact {
     padding: 1em 0;
 }
 h3.title {
