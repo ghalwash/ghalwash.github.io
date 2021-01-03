@@ -51,13 +51,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<div class="menu">
 					<ul class="nav navbar">
-						<li><a href="#about" class="scroll">About</a></li>
-						<li><a href="#work" class="scroll">Experience</a></li>
+						<li><a href="./index/#about" class="scroll">About</a></li>
+						<li><a href="./index/#work" class="scroll">Experience</a></li>
 						<li><a href="./assets/Haitham%20Ghalwash%20Resume-2021-1.pdf" class="scroll">Resume</a></li>
-						<li><a href="#education" class="scroll">Education</a></li>
-						<li><a href="#skills" class="scroll">Skills</a></li>
-						<li><a href="#Courses" class="scroll">Courses</a></li>
-						<li><a href="#contact" class="scroll">Contact</a></li>
+						<li><a href="./index/#education" class="scroll">Education</a></li>
+						<li><a href="./index/#skills" class="scroll">Skills</a></li>
+						<li><a href="./index/#Courses" class="scroll">Courses</a></li>
+						<li><a href="./index/#contact" class="scroll">Contact</a></li>
 					</ul>
 					<div class="clearfix"> </div>
 				</div>
@@ -67,188 +67,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<!--//top-nav-->
 	<!--about-->
 		
-	<div id="about" class="about">
-		<div class="container">
-			<div class="col-md-8 about-left">
-				<p>
-				I’m an Assistant Professor in-Resident at Computer Science and Engineering department, University of Connecticut. 
-I graduate from the University of Connecticut with an interest in Computer Networking and Cybersecurity. 
-My research focus is Software defined networking and network Security. I have wide expertise in different fields including programming, 
-analytics, wireless/wired networks, QoS, and Network Security. I have working experience in consultation, management, 
-Technical coordination, research, and teaching.I am currently teaching hands-on Cybersecurity lab. 
- I am passionate about Infrastructure automation, security, network performance and monitoring.
-				</p>
-				<br>
-				<p>
-				
-					<a href="https://twitter.com/hghalwash"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;  
-					<a href="https://www.linkedin.com/in/ghalwash"><i class="fa fa-linkedin"></i></a>  &nbsp;&nbsp;&nbsp;
-					<a href="https://www.facebook.com/hghalwash"><i class="fa fa-facebook"></i></a> &nbsp;&nbsp;&nbsp;
-					<a href="https://www.facebook.com/hghalwash"><i class="fa fa-quora"></i></a> &nbsp;&nbsp;&nbsp;
-					<a href="https://www.facebook.com/hghalwash"><i class="fa fa-github"></i></a> 
-				<p>
-				</div>
-			<div class="col-md-4">
-				<img src="https://avatars1.githubusercontent.com/u/18704321?s=400&u=8d51cbf2917c21cea809f4debb70f65f1a8e5e33&v=4" alt=" " />
-			</div>
-			<div class="clearfix"> </div>
-		</div>
-	</div>
-	<!--//about-->
-	<!--work-experience-->
-	<!--skills-->
-	<div id="skills" class="skills">
-		<div class="container">
-			<h3 class="title">Skills</h3>
-			<div class="skills-info">
-				<div class="col-md-4 bar-grids">
-					<h6>Python</h6>
-					<h6>Java & C++</h6>
-					<h6>HTML/CSS</h6>
-					<h6>Tableau</h6>
-					<h6>Hadoop</h6>
-					<h6>Excel</h6>
-				</div>
-				<div class="col-md-4 bar-grids">
-					<h6>AWS</h6>
-					<h6>Terraform</h6>
-					<h6>Dockers</h6>
-					<h6>Ansible</h6>
-					<h6>Prometheus</h6>
-					<h6>Grafana</h6>
-				</div>
-				<div class="col-md-4 bar-grids">
-					<h6>SDN & OpenDayLight</h6>
-					<h6>Openflow</h6>
-					<h6>TCP/IP</h6>
-					<h6>VMware & Citrix</h6>
-					<h6>Wireshark, nmap & burpsuit</h6>
-					<h6>CyberSecurity</h6>
-					<h6>CCNA</h6>
-					<h6>Windows & Linux</h6>
-				</div>
-		</div>
-		</div>
-		</div>
-
-
-	<!--education-->
-	<div id="education" class="education">
-		<div class="container">
-			<h3 class="title">Education</h3>
-			<div class="work-info"> 
-				<div class="col-md-6 work-left"> 
-					<h4>PhD Degree - 2020</h4>
-				</div>
-				<div class="col-md-6 work-right"> 
-					<h5><span class="glyphicon glyphicon-education"> </span> University of Connecticut</h5>
-					<p>QoS for Software-defined networking</p>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-			<div class="work-info"> 
-				<div class="col-md-6 work-right work-right2"> 
-					<h4>Master Degree - 2018</h4>
-				</div>
-				<div class="col-md-6 work-left work-left2"> 
-					<h5> University of Connecticut <span class="glyphicon glyphicon-education"></span></h5>
-					<p>Masters in Computer Science and Engineering </p>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-			
-			<div class="work-info"> 
-				<div class="col-md-6 work-left"> 
-					<h4>Master Degree - 2013</h4>
-				</div>
-				<div class="col-md-6 work-right"> 
-					<h5><span class="glyphicon glyphicon-education"> </span> Tanta University</h5>
-					<p>Enhancing role of Mobile ad-hoc Networks in Information delivery</p>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-			<div class="work-info"> 
-				<div class="col-md-6 work-right work-right2"> 
-					<h4>Diploma in Computer Networking - 2007</h4>
-				</div>
-				<div class="col-md-6 work-left work-left2"> 
-					<h5> Information technology Institute(ITI) <span class="glyphicon glyphicon-education"></span></h5>
-					<p>110 Credits earned in a 9-month program certifying a professional Networks Engineer </p>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-			<div class="work-info"> 
-				<div class="col-md-6 work-left"> 
-					<h4>Computer and Control Engineering - 2006</h4>
-				</div>
-				<div class="col-md-6 work-right"> 
-					<h5><span class="glyphicon glyphicon-education"> </span> Tanta University</h5>
-					<p> Graduation project in Data Mining, Ranked 1st, Excellent Grade with honor degree </p>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
-	<!--//education-->
-	<!--//education-->
-	
-		<!--skills-->
-	<div id="Courses" class="skills">
-		<div class="container">
-			<h3 class="title">Teaching Courses</h3>
-			<div class="skills-info">
-				<div class="col-md-10 bar-grids">
-					<h6>(Teaching) Cybersecurity lab - CSE3140 - University of Connecticut    </h6>
-					<h6>(Teaching assistant) Logic Design - CSE2300W - University of Connecticut  </h6>
-					<h6>(Teaching assistant) Computer Networks - Tanta University </h6>
-					<h6>(Teaching assistant) Information and Network Security - Tanta University </h6>
-					<h6>(Teaching assistant) data structures and object oriented programming - Tanta University </h6>
-					<h6>(Teaching assistant) Introduction to Computers - Tanta University </h6>
-
-				</div>
-				<div class="col-md-2 bar-grids">
-					<h6></h6>
-					<h6></h6>
-				</div>
-		</div>
-		</div>
-		</div>
-
-	<!--//education-->
-	
-	<!--contact -->
-		
-		<div id="contact" class="container">
-			<h3 class="title">Contacts</h3>
-
-
-				
-		<div class="card col-12">
-		  <h2>Haitham Ghalwash</h2>
-		  <br>
-		  <div class="clearfix"></div>
-
-		  <p class="title">Assistant Professor in Residence</p>
-		<p> Computer Science and Engineering Department <p>
-		  <p>University of Connecticut</p>
-		  <p>haitham@uconn.edu</p>
-		  		  <p>h.ghalwash@gmail.com</p>
-
-		  
-		</div>		
-		<div style="margin: 24px 0;">
-			<a href="https://twitter.com/hghalwash"><i class="fa fa-twitter"></i></a>  &nbsp;&nbsp;&nbsp;  
-			<a href="https://www.linkedin.com/in/ghalwash"><i class="fa fa-linkedin"></i></a>  &nbsp;&nbsp;&nbsp;  
-			<a href="https://www.facebook.com/hghalwash"><i class="fa fa-facebook"></i></a> &nbsp;&nbsp;&nbsp;  
-			<a href="https://www.facebook.com/hghalwash"><i class="fa fa-quora"></i></a> &nbsp;&nbsp;&nbsp;  
-			<a href="https://www.facebook.com/hghalwash"><i class="fa fa-github"></i></a> &nbsp;&nbsp;&nbsp;  
-
-		  </div>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-		</div>
-	</div>
 	<!--//contact -->
 	<!--footer-->
 	<div class="footer">
