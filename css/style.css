@@ -29,10 +29,7 @@ ul,label{
 	padding:0;
 }
 
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
+
 
 body a:hover{
 	text-decoration:none;
