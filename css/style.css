@@ -321,6 +321,10 @@ p {
 .bar-grids {
     padding: 0 4em;
 }
+
+.bar-grids-white {
+    padding: 0 4em;
+}
 .progress {
     height: 10px;
     margin-bottom: 2.2em;
@@ -334,10 +338,23 @@ p {
     color: #fff;
     margin-bottom: 0.6em;
 }
+
+.bar-grids-white h6 {
+    font-size: 1.1em;
+    color: #000;
+    margin-bottom: 0.6em;
+}
+
 .bar-grids h6 span {
     float: right;
     font-size: 0.9em;
 }
+
+.bar-grids-white h6 span {
+    float: right;
+    font-size: 0.9em;
+}
+
 /*--//skills--*/
 /*--portfolio--*/
 /*--SAP--*/
